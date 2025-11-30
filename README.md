@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=zakaryaemiloudy" alt="zakaryaemiloudy" /></a> </p>
 
-- 🌱 I’m currently learning **Java, PHP, Laravel, React.js, Express.js**
+- 🌱 I’m currently learning **Spring boot, Angular.js, web apps security, kotlin**
 
 - 📫 How to reach me **zakaryaemiloudy2006@gmail.com**
 
